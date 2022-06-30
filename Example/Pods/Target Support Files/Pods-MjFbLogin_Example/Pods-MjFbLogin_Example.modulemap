@@ -1,0 +1,6 @@
+framework module Pods_MjFbLogin_Example {
+  umbrella header "Pods-MjFbLogin_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

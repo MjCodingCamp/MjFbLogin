@@ -1,0 +1,6 @@
+framework module MjFbLogin {
+  umbrella header "MjFbLogin-umbrella.h"
+
+  export *
+  module * { export * }
+}
