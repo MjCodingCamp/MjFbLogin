@@ -9,6 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'MjFbLogin'
   s.version          = '0.1.0'
+  s.swift_version    = '4.0'
   s.summary          = 'Simple and quick facebook login library for Swift & SwiftUI'
 
 # This description is used to generate tags and improve search results.
