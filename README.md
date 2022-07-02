@@ -11,7 +11,7 @@ Simple and light weight facebook login library which provides support for UIKit 
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
-# How to use
+## How to use
 * **Step-1 MjFbLogin is available through [CocoaPods](https://cocoapods.org). To install**
 * **Step-2** 
 * **Step-3 Configure Info.plist :** In Xcode right-click on Info.plist, and choose Open As Source Code.
