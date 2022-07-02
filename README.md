@@ -11,6 +11,9 @@ To run the example project, clone the repo, and run `pod install` from the Examp
 
 ## Requirements
 
+* iOS 9+
+* Xcode 11+
+
 ## Installation
 
 MjFbLogin is available through [CocoaPods](https://cocoapods.org). To install
@@ -26,11 +29,6 @@ Mohammad Jeeshan
 ```ruby
 mohammad.jeeshan.91@gmail.com
 ```
-
-## Requirements
-
-* iOS 9+
-* Xcode 11+
 
 ## License
 
