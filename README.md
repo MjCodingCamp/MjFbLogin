@@ -37,7 +37,7 @@ MjFbLogin is available under the MIT license. See the LICENSE file for more info
 ## Social Media 
 
 Please follow me on social media for latest update
-* [![Github](https://img.shields.io/badge/Github-@MjCodingCamp.gray.svg?style=flat)](https://github.com/MjCodingCamp)
+* [![Github](https://img.shields.io/badge/Github-@MjCodingCamp.black.svg?style=flat)](https://github.com/MjCodingCamp)
 * [![Twitter](https://img.shields.io/badge/Twitter-@MjCodingCamp-blue.svg?style=flat)](https://twitter.com/MjCodingCamp)
 * [![Medium](https://img.shields.io/badge/Medium-@MjCodingCamp-orange.svg?style=flat)](https://medium.com/@MjCodingCamp)
 
