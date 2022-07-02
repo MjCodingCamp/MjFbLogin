@@ -22,7 +22,10 @@ pod 'MjFbLogin'
 
 ## Author
 
-Mohammad Jeeshan, mohammad.jeeshan.91@gmail.com
+Mohammad Jeeshan
+```ruby
+mohammad.jeeshan.91@gmail.com
+```
 
 ## License
 
