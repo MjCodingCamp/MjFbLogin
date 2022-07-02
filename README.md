@@ -39,5 +39,6 @@ MjFbLogin is available under the MIT license. See the LICENSE file for more info
 ## Social Media 
 
 Please follow me on social media for latest update  
-* Medium https://medium.com/@MjCodingCamp
 * Twitter https://twitter.com/MjCodingCamp
+* Medium https://medium.com/@MjCodingCamp
+
