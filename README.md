@@ -14,10 +14,9 @@ To run the example project, clone the repo, and run `pod install` from the Examp
 # How to use
 * **Step-1 MjFbLogin is available through [CocoaPods](https://cocoapods.org). To install**
 * **Step-2** 
-* **Step-3 Configure Info.plist :**
-
-In Xcode right-click on Info.plist, and choose Open As Source Code.
+* **Step-3 Configure Info.plist :** In Xcode right-click on Info.plist, and choose Open As Source Code.
 Copy and paste the following XML snippet into the body of your file (<dict>...</dict>), replacing [APP_ID] with Facebook application id, [CLIENT_TOKEN] value found under Settings > Advanced > Client Token in your App Dashboard and [APP_NAME] with Facebook application name
+
 ```ruby
 <key>CFBundleURLTypes</key>
 <array>
