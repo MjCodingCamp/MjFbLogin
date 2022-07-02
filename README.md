@@ -3,7 +3,6 @@
 [![Version](https://img.shields.io/cocoapods/v/MjFbLogin.svg?style=flat)](https://cocoapods.org/pods/MjFbLogin)
 [![License](https://img.shields.io/cocoapods/l/MjFbLogin.svg?style=flat)](https://cocoapods.org/pods/MjFbLogin)
 [![Platform](https://img.shields.io/cocoapods/p/MjFbLogin.svg?style=flat)](https://cocoapods.org/pods/MjFbLogin)
-[![Platform](https://img.shields.io/cocoapods/p/MjFbLogin.svg?style=flat)](http://cocoapods.org/pods/MjFbLogin)
 
 
 ## Example
