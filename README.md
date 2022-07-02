@@ -27,6 +27,15 @@ Mohammad Jeeshan
 mohammad.jeeshan.91@gmail.com
 ```
 
+## Requirements
+
+* iOS 9+
+* Xcode 11+
+
 ## License
 
 MjFbLogin is available under the MIT license. See the LICENSE file for more info.
+
+## Social Media Handles
+* Medium https://medium.com/@MjCodingCamp
+* Twitter https://twitter.com/MjCodingCamp
