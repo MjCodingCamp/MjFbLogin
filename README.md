@@ -3,7 +3,7 @@
 [![Version](https://img.shields.io/cocoapods/v/MjFbLogin.svg?style=flat)](https://cocoapods.org/pods/MjFbLogin)
 [![License](https://img.shields.io/cocoapods/l/MjFbLogin.svg?style=flat)](https://cocoapods.org/pods/MjFbLogin)
 [![Platform](https://img.shields.io/cocoapods/p/MjFbLogin.svg?style=flat)](https://cocoapods.org/pods/MjFbLogin)
-[![Swift](https://img.shields.io/badge/Swift-orange.svg?style=flat)](https://developer.apple.com/swift/)
+[![UIKit](https://img.shields.io/badge/UIKit-orange.svg?style=flat)](https://developer.apple.com/documentation/uikit)
 [![SwiftUI](https://img.shields.io/badge/SwiftUI-blue.svg?style=flat)](https://developer.apple.com/xcode/swiftui/)
 
 ## Example
