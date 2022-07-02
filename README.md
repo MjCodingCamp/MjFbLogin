@@ -4,7 +4,7 @@
 [![License](https://img.shields.io/cocoapods/l/MjFbLogin.svg?style=flat)](https://cocoapods.org/pods/MjFbLogin)
 [![Platform](https://img.shields.io/cocoapods/p/MjFbLogin.svg?style=flat)](https://cocoapods.org/pods/MjFbLogin)
 [![Swift](https://img.shields.io/cocoapods/p/MjFbLogin-orange.svg?style=flat)](https://cocoapods.org/pods/MjFbLogin)
-[![SwiftUI](https://img.shields.io/badge/SwiftUI-@MjCodingCamp-blue.svg?style=flat)](https://developer.apple.com/xcode/swiftui/)
+[![SwiftUI](https://img.shields.io/badge/SwiftUI-blue.svg?style=flat)](https://developer.apple.com/xcode/swiftui/)
 
 ## Example
 
